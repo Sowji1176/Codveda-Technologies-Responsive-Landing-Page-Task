@@ -4,7 +4,7 @@
 
 ## 🌐 Live Project
 
-**Live Website:** 
+**Live Website:** https://sowji1176.github.io/Codveda-Technologies-Responsive-Landing-Page-Task/
 
 ## About the Project
 
